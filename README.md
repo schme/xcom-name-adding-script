@@ -1,0 +1,1 @@
+# xcom-name-adding-script
